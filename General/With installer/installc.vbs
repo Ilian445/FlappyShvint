@@ -1,0 +1,1 @@
+MsgBox "Game installed!", , "Installation complete!"

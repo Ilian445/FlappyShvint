@@ -1,0 +1,1 @@
+MsgBox "Please wait... FlappyShvint is installing", , "Installing"
